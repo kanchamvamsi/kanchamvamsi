@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps, Cloud Computing, and Automation.  
 - 🌱 I’m currently learning Kubernetes and advanced AWS services.  
 - 💞️ I’m looking to collaborate on open-source projects related to DevOps and cloud infrastructure.  
-- 📫 How to reach me: [Email](mailto:your-kvamsi5342@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kanchamvamsi)  
+- 📫 How to reach me: [Email](mailto:your-kvamsi5342@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vamsi-k-aa2a8818b)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love solving Rubik's cubes and exploring AI innovations!
 
